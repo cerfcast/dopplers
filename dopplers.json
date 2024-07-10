@@ -1,0 +1,21 @@
+{
+    "dopplers": [
+        {
+            "experiment": "ready4l4s",
+            "endpoints": [
+                {
+                    "name": "linode-chi",
+                    "hostname": "ready4l4s.cerfca.st",
+                    "connectivity": "8080",
+                    "ready": "8081"
+                },
+                {
+                    "name": "linode-atl",
+                    "hostname": "atl.ready4l4s.cerfca.st",
+                    "connectivity": "8080",
+                    "ready": "8081"
+                }
+            ]
+        }
+    ]
+}
