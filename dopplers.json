@@ -7,13 +7,15 @@
                     "name": "linode-chi",
                     "hostname": "ready4l4s.cerfca.st",
                     "connectivity": "8080",
-                    "ready": "8081"
+                    "ready": "8081",
+                    "echo": "5000",
                 },
                 {
-                    "name": "linode-atl",
-                    "hostname": "atl.ready4l4s.cerfca.st",
+                    "name": "linode-chi2",
+                    "hostname": "ready4l4s.cerfca.st",
                     "connectivity": "8080",
-                    "ready": "8081"
+                    "ready": "8081",
+                    "echo": "5000",
                 }
             ]
         }
